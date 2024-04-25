@@ -1,0 +1,13 @@
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\bin\Debug\Project cuối kỳ.exe.config
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\bin\Debug\Project cuối kỳ.exe
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\bin\Debug\Project cuối kỳ.pdb
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\obj\Debug\Project cuối kỳ.csproj.AssemblyReference.cache
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\obj\Debug\Project_cuối_kỳ.Login.resources
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\obj\Debug\Project_cuối_kỳ.Properties.Resources.resources
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\obj\Debug\Project cuối kỳ.csproj.GenerateResource.cache
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\obj\Debug\Project cuối kỳ.csproj.CoreCompileInputs.cache
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\obj\Debug\Project cuối kỳ.exe
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\obj\Debug\Project cuối kỳ.pdb
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\obj\Debug\Project_cuối_kỳ.TableManger.resources
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\obj\Debug\Project_cuối_kỳ.AccountProfile.resources
+C:\Users\09kho\Desktop\project cuối kỳ\Project cuối kỳ\Project cuối kỳ\obj\Debug\Project_cuối_kỳ.Admin.resources
