@@ -74,3 +74,4 @@ GO
 
 EXEC dbo.USP_GetTableList
 --thêm thông tin vào đây
+ádfgh
